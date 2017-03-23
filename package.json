@@ -1,0 +1,30 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "PEC1 entorno de trabajo",
+  "main": "gulpfile",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-rimraf": "^0.2.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PEC1_Clemente_Iturriaga_Jose_Alfredo"
+  },
+  "keywords": [
+    "PEC1_Clemente_Iturriaga_Jose_Alfredo"
+  ],
+  "author": "Jose Alfredo Clemente Iturriaga",
+  "license": " BSD-2-Clause-FreeBSD"
+}
